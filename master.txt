@@ -2,4 +2,8 @@ this is master file modify now 1
 version control with Git
 -Update file to test github
 -Update file to local from github
+<<<<<<< HEAD
 - This is my local file.
+=======
+-Test for conflict
+>>>>>>> 7bb851a2162ec1d13091a20bdf0955d461397ba0
